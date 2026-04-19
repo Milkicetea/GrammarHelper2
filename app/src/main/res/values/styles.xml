@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Card Style for Dark Mode -->
+    <style name="CardViewStyle" parent="Theme.MaterialComponents.Light">
+        <item name="cardBackgroundColor">@color/dark_card</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="contentPadding">16dp</item>
+    </style>
+
+    <!-- Error Card Style -->
+    <style name="ErrorCardStyle">
+        <item name="cardBackgroundColor">?attr/colorSurface</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardElevation">2dp</item>
+    </style>
+
+    <!-- EditText Style -->
+    <style name="EditTextStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">?attr/colorSurface</item>
+        <item name="boxStrokeColor">@color/purple_500</item>
+        <item name="hintTextColor">?attr/colorSecondary</item>
+    </style>
+</resources>

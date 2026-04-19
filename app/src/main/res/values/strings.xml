@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Grammar Helper</string>
+
+    <!-- Dashboard Strings -->
+    <string name="my_progress">My Progress</string>
+    <string name="guest_user">Guest User</string>
+    <string name="anonymous_mode">Anonymous Mode</string>
+    <string name="streak_text">🔥 %d-Day Streak! Keep it up!</string>
+    <string name="streak_start">🔥 Start writing to begin your streak!</string>
+
+    <!-- Chart Labels -->
+    <string name="grammar_score_over_time">Grammar Score Over Time</string>
+    <string name="test_score">Test Score</string>
+    <string name="error_breakdown">Error Type Breakdown</string>
+    <string name="top_mistakes">Top 5 Most Common Mistakes</string>
+    <string name="achievements">Achievements &amp; Badges</string>
+
+    <!-- Editor Strings -->
+    <string name="start_typing">Start typing your text here...</string>
+    <string name="score_label">Score:</string>
+    <string name="errors_label">Errors</string>
+    <string name="words_label">Words</string>
+
+    <!-- Tone Strings -->
+    <string name="tone_academic">Academic</string>
+    <string name="tone_professional">Professional</string>
+    <string name="tone_casual">Casual</string>
+
+    <!-- Settings Strings -->
+    <string name="settings_title">Settings</string>
+    <string name="writing_preferences">Writing Preferences</string>
+    <string name="ai_preferences">AI Preferences</string>
+    <string name="theme_settings">Theme Settings</string>
+    <string name="data_privacy">Data &amp; Privacy</string>
+
+    <!-- Error Messages -->
+    <string name="offline_error">Offline</string>
+    <string name="analyzing">Analyzing...</string>
+    <string name="no_errors">No Errors</string>
+
+    <!-- Button Labels -->
+    <string name="clear">Clear</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
